@@ -1,0 +1,11 @@
+Package: myTols
+Type: Package
+Title: Some useful functions
+Version: 0.0.1 
+Date: 10.11.2014
+Author: Rainer M. Krug
+Maintainer: Rainer M Krug <Rainer@krugs.de>
+Description: To Be added
+License: GPL-3
+LazyData: yes
+Depends: 
